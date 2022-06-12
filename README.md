@@ -1,4 +1,4 @@
-# << Project BetterHR >>
+# Project BetterHR
 
 - [Introducing](#introducing)
 - [Legality](#legality)
