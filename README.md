@@ -4,6 +4,7 @@
 - [Legality](#legality)
 - [Mods](#mods)
 - [Downloads](#downloads)
+- [Support us](#support-us)
 
 
 ## Introducing
@@ -16,3 +17,6 @@
 
 
 ## Downloads
+
+
+## Support us
