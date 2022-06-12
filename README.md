@@ -13,7 +13,7 @@ Welcome to BetterHR. BetterHR is a free client that has benn developed for GTM. 
 
 ## Legality
 BetterHR does not contain any illegal mods or features. Everything feature is allowed on gtm.
-16PS: You dont get better hitreg.
+PS: You dont get better hitreg.
 
 ## Mods
 
