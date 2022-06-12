@@ -24,7 +24,7 @@ Here is a list of all mods and features you can use with BetterHR (list is not c
 > CPS Counter
 > 
 > Reach Display,
-> Reach from other players
+> Reach of other players
 > 
 > GTM Resourcepacks Downloader
 > 
