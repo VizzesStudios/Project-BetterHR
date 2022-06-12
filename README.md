@@ -9,8 +9,7 @@
 
 
 ## Introducing
-Welcome to BetterHR. BetterHR is a free client that has benn developed for GTM.
-
+Welcome to BetterHR. BetterHR is a free client that has benn developed for GTM. It brings a lot of features to improve the experience on GTM. BetterHR is currently under development and gets regularly updates.
 
 ## Legality
 
