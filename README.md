@@ -4,6 +4,7 @@
 - [Legality](#legality)
 - [Mods](#mods)
 - [Downloads](#downloads)
+- [Contribute](#contribute)
 - [Support us](#support-us)
 
 
@@ -17,6 +18,9 @@
 
 
 ## Downloads
+
+
+## Contribute
 
 
 ## Support us
