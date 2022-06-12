@@ -9,6 +9,7 @@
 
 
 ## Introducing
+Welcome to BetterHR. BetterHR is a free client that has benn developed for GTM.
 
 
 ## Legality
