@@ -4,6 +4,7 @@
 - [Legality](#legality)
 - [Mods](#mods)
 - [Downloads](#downloads)
+- [Get Help](#get-help)
 - [Contribute](#contribute)
 - [Support us](#support-us)
 
@@ -39,6 +40,9 @@ Here is a list of all mods and features you can use with BetterHR (list is not c
 
 ## Downloads
 Still under development.
+
+## Get Help
+You can contact us at __contact@vizzes.tech__
 
 ## Contribute
 Here will you be able to apply for getting a developer of BetterHR.
