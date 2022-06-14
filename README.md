@@ -28,7 +28,7 @@ Here is a list of all mods and features you can use with BetterHR (list is not c
 > 
 > GTM Resourcepacks Downloader
 > 
-> Toggle Spring
+> Toggle Spring (BetterSprinting)
 > 
 > Armor Display
 > 
