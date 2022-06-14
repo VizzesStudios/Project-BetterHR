@@ -44,4 +44,5 @@ Still under development.
 Here will you be able to apply for getting a developer of BetterHR.
 
 ## Support us
-Here you can find a donation link soon.
+We are happy about every support.
+https://ko-fi.com/vizzes
