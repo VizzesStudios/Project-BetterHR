@@ -46,7 +46,7 @@ If you want to report a bug or you want to make a suggestion or even if you just
 You can also contact us at __contact@vizzes.tech__
 
 ## Contribute
-Here will you be able to apply for getting a developer of BetterHR.
+Here will you be able to apply and become a developer of BetterHR.
 
 ## Support us
 We are happy about every support.
