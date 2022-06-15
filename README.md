@@ -42,7 +42,7 @@ Here is a list of all mods and features you can use with BetterHR (list is not c
 Still under development.
 
 ## Get Help
-If you want to report a bug or you want to make a suggestion or even if you just have a small question you can make an issue.
+If you want to report a bug or you want to make a suggestion or even if you just have a small question you cancreate an issue or a discussion.
 You can also contact us at __contact@vizzes.tech__
 
 ## Contribute
