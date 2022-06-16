@@ -39,7 +39,8 @@ Here is a list of all mods and features you can use with BetterHR (list is not c
 > /feed & /fix delay display
 
 ## Downloads
-Still under development.
+Our client is still under development.
+You will find all downloads at the [releases page](https://github.com/VizzesStudios/Project-BetterHR/releases)
 
 ## Get Help
 If you want to report a bug or you want to make a suggestion or even if you just have a small question you cancreate an issue or a discussion.
