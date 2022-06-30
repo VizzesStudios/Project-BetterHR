@@ -18,32 +18,14 @@ BetterHR does not contain any illegal mods or features. Every feature is allowed
 PS: You dont get better hitreg.
 
 ## Mods
-Here is a list of all mods and features you can use with BetterHR (list is not completed yet).
-> FPS Counter
->
-> Ping Display
-> 
-> CPS Counter
-> 
-> Reach Display,
-> Reach of other players
-> 
-> GTM Resourcepacks Downloader
-> 
-> Toggle Spring (BetterSprinting)
-> 
-> Armor Display
-> 
-> Chat Macros
-> 
-> /feed & /fix delay display
+A list with all mods will come after the first release.
 
 ## Downloads
 Our client is still under development.
 You will find all downloads at the [releases page](https://github.com/VizzesStudios/Project-BetterHR/releases)
 
 ## Get Help
-If you want to report a bug or you want to make a suggestion or even if you just have a small question you cancreate an issue or a discussion.
+If you want to report a bug or you want to make a suggestion or even if you just have a small question you can create an issue or a discussion.
 You can also contact us at __contact@vizzes.tech__
 
 ## Contribute
