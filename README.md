@@ -4,7 +4,7 @@
 - [Legality](#legality)
 - [Mods](#mods)
 - [Downloads](#downloads)
-- [Get Help](#get-help)
+- [Get Help](#get-help-contact)
 - [Contribute](#contribute)
 - [Support us](#support-us)
 - [Source Code](#source-code)
